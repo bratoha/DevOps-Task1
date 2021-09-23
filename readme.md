@@ -6,4 +6,4 @@ Release 1.0.2
 
 `Major feature 0.3`
 
-`Another major feature 0.1`
+`Another major feature 0.2`
