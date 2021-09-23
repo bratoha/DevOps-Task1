@@ -1,3 +1,3 @@
 Develop 0.1.3
 
-`Major feature 0.2`
+`Major feature 0.3`
