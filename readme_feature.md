@@ -1,9 +1,9 @@
 **Main**
 
-Release 1.0.4
+Develop 1.0.3
 
 `Hotfix`
 
 `Major feature 0.3`
 
-`Bugfix 1` `Bugfix 2`
+`Another major feature 0.3`
